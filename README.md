@@ -17,7 +17,7 @@ Features
 - Helpful error messages: Provides clear, line-numbered feedback on any input errors.
 - File I/O: Reads input and writes output from/to files specified by the user.
 
-Files
+Files  
 file_io.py - Handles input/output files  
 main.py — Program entry point; handles input/output and calls conversion.  
 validator.py — Validates and tokenizes input expressions.  
