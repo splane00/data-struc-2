@@ -18,8 +18,8 @@ Features
 - File I/O: Reads input and writes output from/to files specified by the user.
 
 Files
-file_io.py - Handles input/output files
-main.py — Program entry point; handles input/output and calls conversion.
-validator.py — Validates and tokenizes input expressions.
-prefix_to_postfix.py — Contains recursive logic to convert prefix tokens to postfix string.
-constants.py — Defines operator characters.
+file_io.py - Handles input/output files  
+main.py — Program entry point; handles input/output and calls conversion.  
+validator.py — Validates and tokenizes input expressions.  
+prefix_to_postfix.py — Contains recursive logic to convert prefix tokens to postfix string.  
+constants.py — Defines operator characters.  
